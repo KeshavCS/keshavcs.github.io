@@ -3029,7 +3029,7 @@ h6 {
     font-family: "Heebo", sans-serif;
     margin-bottom: 0px;
     text-transform: uppercase; }
-  .f_title a{
+  .f_title a.resume{
     color: white;
   }
 
