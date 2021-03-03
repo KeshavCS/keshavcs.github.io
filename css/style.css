@@ -3029,6 +3029,9 @@ h6 {
     font-family: "Heebo", sans-serif;
     margin-bottom: 0px;
     text-transform: uppercase; }
+  .f_title a{
+    color: white;
+  }
 
 .ab_widget p {
   font-size: 14px;
