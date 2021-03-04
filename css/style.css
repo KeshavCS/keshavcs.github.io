@@ -2918,8 +2918,8 @@ h6 {
     opacity: 0;
     transition: all 300ms ease; }
 
-.view{
-  padding: 10px;
+div.view{
+  margin-bottom: 20px;
 }
 .view-code{
   padding: 10px;
