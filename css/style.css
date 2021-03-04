@@ -299,7 +299,7 @@ button:focus {
     .home_banner_area .banner_inner .row {
       padding-top: 100px; }
     .home_banner_area .banner_inner .home_left_img {
-      padding-top: 100px; }
+      padding-top: 165px; }
     .home_banner_area .banner_inner .col-lg-6 {
       vertical-align: middle;
       align-self: center; }
@@ -3120,6 +3120,9 @@ h6 {
   .social_widget .list li:hover a {
     color: #8490ff; }
 
+    h3.resume{
+      padding-top: 15px;
+    }
 .copy_right_text {
   text-align: center;
   margin-top: 60px; }
