@@ -2917,12 +2917,16 @@ h6 {
     opacity: 0;
     transition: all 300ms ease; }
 
+.view{
+  padding: 10px;
+}
 .view-code{
   padding: 10px;
 }
 .view-project{
   padding: 10px;
 }
+
 
 
 /* End Projects Area css
