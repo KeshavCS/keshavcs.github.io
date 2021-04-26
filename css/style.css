@@ -2923,8 +2923,12 @@ div.view{
 }
 
 .view-code, .view-project, .p-title{
-  padding: 5px 10px;
+  padding: 10px;
   margin: 0px;
+}
+
+.view-code, .view-project{
+  padding-top: 0px;
 }
 
 
