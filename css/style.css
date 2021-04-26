@@ -2906,7 +2906,7 @@ h6 {
   position: relative;
   border-radius: 5px;
   overflow: hidden;
-  margin-bottom: 30px; }
+  margin-bottom: 10px; }
   .projects_item:before {
     content: "";
     background: rgba(255, 255, 255, 0.8);
@@ -2924,6 +2924,7 @@ div.view{
 
 .view-code, .view-project, .p-title{
   padding: 10px;
+  margin: 0px;
 }
 
 
