@@ -2920,15 +2920,11 @@ h6 {
 
 div.view{
   margin-bottom: 20px;
-  text-align: center;
-}
-.view-code{
-  padding: 10px;
-}
-.view-project{
-  padding: 10px;
 }
 
+.view-code, .view-project, .p-title{
+  padding: 10px;
+}
 
 
 /* End Projects Area css
