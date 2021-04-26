@@ -2920,6 +2920,7 @@ h6 {
 
 div.view{
   margin-bottom: 20px;
+  border: 1px solid black;
 }
 
 .view-code, .view-project, .p-title{
