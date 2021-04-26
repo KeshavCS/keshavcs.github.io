@@ -2906,7 +2906,7 @@ h6 {
   position: relative;
   border-radius: 5px;
   overflow: hidden;
-  margin-bottom: 10px; }
+  margin-bottom: 0px; }
   .projects_item:before {
     content: "";
     background: rgba(255, 255, 255, 0.8);
