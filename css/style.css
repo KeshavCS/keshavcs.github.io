@@ -2905,7 +2905,6 @@ h6 {
 .projects_item {
   position: relative;
   border-radius: 5px;
-  border: 0.2px solid black;
   overflow: hidden;
   margin-bottom: 30px; }
   .projects_item:before {
@@ -2916,7 +2915,6 @@ h6 {
     top: 0px;
     width: 100%;
     height: 100%;
-    border: 0.2px solid black;
     opacity: 0;
     transition: all 300ms ease; }
 
