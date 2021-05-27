@@ -13,7 +13,7 @@
       <mj-section full-width padding="0px">
 
         <mj-column width="100%" padding="0px">
-          <mj-image padding="0px" align="left" width="90px" src="../Airbnb/Images/airbnb_logo.png" alt="airbnb_logo" />
+          <mj-image padding="0px" align="left" width="90px" src="/Portfolio/HTML Emails/Transactional Airbnb 1/assets/airbnb_logo.png" alt="airbnb_logo" />
         </mj-column>
     
       </mj-section>
