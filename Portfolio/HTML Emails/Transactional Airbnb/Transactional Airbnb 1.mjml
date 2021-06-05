@@ -1,13 +1,12 @@
 <mjml>
 
   <mj-head>
-		<mj-title> Airbnb Transaction</mj-title>
+		<mj-title> Airbnb Transactional Email</mj-title>
   </mj-head>
 
   <mj-body background-color="#eeeeee" width="700px">
 
     <mj-wrapper full-width padding="20px">
-  
 
       <!-- Header Section -->
       <mj-section full-width padding="0px">
