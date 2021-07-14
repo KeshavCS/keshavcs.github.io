@@ -12,6 +12,7 @@ div.header, div.main, div.footer{
     height: 100px;
 }
 
+
 .header img{
     width: 100%;
     max-width: 150px;
@@ -21,7 +22,7 @@ div.header, div.main, div.footer{
 
 div.main{
     background-color: pink;
-    background-image: url("../Shop Opening/Assets/main-background.jpg");
+    background-image: url("./Assets/main-background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
