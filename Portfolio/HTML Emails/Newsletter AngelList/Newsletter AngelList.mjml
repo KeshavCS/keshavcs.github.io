@@ -38,7 +38,7 @@
             
             <mj-group>
                 <mj-column width="50%" padding="32px 0px 24px 0px">
-                    <mj-image width="139px" align="left" src="/Portfolio/HTML Emails/Newsletter AngelList/assets/AngelList Logo.png" alt="logo" href="http://links.angel.co/u/click?_t=26b4e8aeb47d4cd3acd5eba415f76f62&_m=90117e71171b4bffba691c48ea514931&_e=9WGC2ek-rk4tkdyRUo8f5YWZOXhcx_qerk_wU42YG4ftJc27Y6aLTFcqgxdC-TXj_h38jv5AYJOTlLm5a5PjYCoGUQt1vlfhpfoKotxkfRsn3bdUkf1S7t7rwJdvaJDf7CjqouXXMLr7E7zq5ZfIW7bIf-zvtd21LXraxGBcHx9J-b1ftUuurQrCV-I_P9Q-m-n5mhlfGJ7OO_zwseJ6v9RiAXLAYtiy3fEAm7qKizqRQ6zoz4Ek1Evn0MEYfNP-FPp1IrSBm91O185We8_zgEn838abaissEtXLqNy9IsrxDWl8wu2Jtuzj0NHvdHivzYmCdWqrKsrET_hFBkRW0rm7lA2x7ppc40v6I5VMDDk%3D"/>
+                    <mj-image width="139px" align="left" src="./assets/AngelList Logo.png" alt="logo" href="http://links.angel.co/u/click?_t=26b4e8aeb47d4cd3acd5eba415f76f62&_m=90117e71171b4bffba691c48ea514931&_e=9WGC2ek-rk4tkdyRUo8f5YWZOXhcx_qerk_wU42YG4ftJc27Y6aLTFcqgxdC-TXj_h38jv5AYJOTlLm5a5PjYCoGUQt1vlfhpfoKotxkfRsn3bdUkf1S7t7rwJdvaJDf7CjqouXXMLr7E7zq5ZfIW7bIf-zvtd21LXraxGBcHx9J-b1ftUuurQrCV-I_P9Q-m-n5mhlfGJ7OO_zwseJ6v9RiAXLAYtiy3fEAm7qKizqRQ6zoz4Ek1Evn0MEYfNP-FPp1IrSBm91O185We8_zgEn838abaissEtXLqNy9IsrxDWl8wu2Jtuzj0NHvdHivzYmCdWqrKsrET_hFBkRW0rm7lA2x7ppc40v6I5VMDDk%3D"/>
                 </mj-column>
             
                 <mj-column width="50%" padding="32px 7px 27.2px 7px">
@@ -54,17 +54,11 @@
                 <mj-text mj-class="bfont">
                     <h3 style="font-size:24px; line-height:1; text-align:center;"> <a style="color: #006aff; text-decoration:none; "> Flush with venture funding, travel startups are hiring again </a> </h3> 
                 </mj-text>
-                <mj-image src="/Portfolio/HTML Emails/Newsletter AngelList/assets/main-image.jpg" alt="main-image" href="http://links.angel.co/u/click?_t=26b4e8aeb47d4cd3acd5eba415f76f62&_m=90117e71171b4bffba691c48ea514931&_e=9WGC2ek-rk4tkdyRUo8f5aJ0a_d0m9R53YtBfKmSgPjHcj6qOIyEvkdSZL05OQYsK6ExNMwWiirQfY9DMU-eS2zwd1v3huHRlBmLCr9Np7thcI2161RxYEwcnIq8DpJEgxSoLdcou3lixnDQpH0-K5FoqDrOrnnfuY-7S6L-vxiVPKklvRi2MmuPMQn9TNTLQ57nA-AqVZe6f_0TUBzdEfHcABnKskj_Tlc7j-0rAb17aWK7TFY2xbEuFmD8F8iAvpMz4_TVB1Rb3d8Kjxo3ie7Ii7J4g92qEp466_QAKZ61V1JIVkU8yoJ4l4Lu7UCmPgk4Nn9ddQIkwW2bwBFvXeJhHiQ_YDy2eoSKuL7n4Ap7KPHqQ5bXglDSKZdJtF2ZiryfgDwuqhwRZ0rbazkMoW8kQUCRoih3Knw3rhqUnkbMMbA_kV84Fi9PUxP8BrXaqg0pz2w6foJQtqxUn66SzA%3D%3D" />
+                <mj-image src="./assets/main-image.jpg" alt="main-image" href="http://links.angel.co/u/click?_t=26b4e8aeb47d4cd3acd5eba415f76f62&_m=90117e71171b4bffba691c48ea514931&_e=9WGC2ek-rk4tkdyRUo8f5aJ0a_d0m9R53YtBfKmSgPjHcj6qOIyEvkdSZL05OQYsK6ExNMwWiirQfY9DMU-eS2zwd1v3huHRlBmLCr9Np7thcI2161RxYEwcnIq8DpJEgxSoLdcou3lixnDQpH0-K5FoqDrOrnnfuY-7S6L-vxiVPKklvRi2MmuPMQn9TNTLQ57nA-AqVZe6f_0TUBzdEfHcABnKskj_Tlc7j-0rAb17aWK7TFY2xbEuFmD8F8iAvpMz4_TVB1Rb3d8Kjxo3ie7Ii7J4g92qEp466_QAKZ61V1JIVkU8yoJ4l4Lu7UCmPgk4Nn9ddQIkwW2bwBFvXeJhHiQ_YDy2eoSKuL7n4Ap7KPHqQ5bXglDSKZdJtF2ZiryfgDwuqhwRZ0rbazkMoW8kQUCRoih3Knw3rhqUnkbMMbA_kV84Fi9PUxP8BrXaqg0pz2w6foJQtqxUn66SzA%3D%3D" />
                 <mj-text padding="27px 0px">
-                    <b>Vorfreude</b> - (n.) Joyful anticipation.  <br> <br>
                     Investors regained their appetites for travel and tourism startups, buoyed by signs that the worst is over for an industry decimated by the pandemic.  <br> <br>
-                    Following a five-year low, venture capitalists poured $3.4B into the industry so far this year—70% of the total for 2020.  <br> <br>
                     That brings great news for job seekers: <b>Travel startups are hiring again.</b>  <br> <br>
-                    Investors remain bullish on the shared economy. Six-year-old Hipcamp (they’re hiring) recently raised $25M to build out its network of shared outdoor spaces that includes coconut farms, vineyards, and forests; and Loge raised another $4.5M to expand its campsites for rent. For the RV sharing crowd, Harvest Hosts (they’re hiring), recently raised $37M.  <br> <br>
-                    Others are addressing problems exacerbated by the pandemic.  <br> <br>
-                    Toronto-based Sherpa raised $8.5M to help travelers cope with the complexities of crossing borders. Singapore-based Covid Controls helps travelers figure out where they can and can’t go during the pandemic. And Clear (they’re hiring) is advancing airport security with biometrics.  <br> <br>
-                    HootBoard (they’re hiring) is “transforming the way visitor information is delivered” with digital kiosks. Travel to Africa is coming back,too, with Travel Africa (they’re hiring).  <br> <br>
-                    Travel booking and management services snagged some of the biggest deals of the year so far.  <br>
+                    Investors remain bullish on the shared economy. Loge raised another $4.5M to expand its campsites for rent. For the RV sharing crowd, Harvest Hosts (they’re hiring), recently raised $37M.<br>
                 </mj-text>
                 <mj-button mj-class="np" href="http://links.angel.co/u/click?_t=26b4e8aeb47d4cd3acd5eba415f76f62&_m=90117e71171b4bffba691c48ea514931&_e=9WGC2ek-rk4tkdyRUo8f5aJ0a_d0m9R53YtBfKmSgPjHcj6qOIyEvkdSZL05OQYsK6ExNMwWiirQfY9DMU-eS2zwd1v3huHRlBmLCr9Np7thcI2161RxYEwcnIq8DpJEgxSoLdcou3lixnDQpH0-K5FoqDrOrnnfuY-7S6L-vxiVPKklvRi2MmuPMQn9TNTLQ57nA-AqVZe6f_0TUBzdEfHcABnKskj_Tlc7j-0rAb17aWK7TFY2xbEuFmD8F8iAm-Nvh8s_eD7Gxx8uBfxMnUI9-gjC_oodSR03AvqTwqiGAFS14nPWAiJc8RYTDQ9AT8x_C78sxzK-tLRmmtrGkTme0soW-5v7xNX_8DwwDHDknIcFNsAmqHZOZf0elBOybOP1pW5csAtUx7zJtf9MqBOyEuG224rmvlXyUVHfVBlexf7z2NiqYfHh-T8DsjvjX56USwIR2o2D38Rq0_tTkQ%3D%3D">
                     View Story
@@ -78,7 +72,7 @@
             </mj-column>
             <mj-group mj-class="100pw">
                 <mj-column mj-class="hs-img vam">
-                    <mj-image src="/Portfolio/HTML Emails/Newsletter AngelList/assets/hs1.jpg" alt="acure" href="https://angel.co/company/accrue-1"/>
+                    <mj-image src="./assets/hs1.jpg" alt="acure" href="https://angel.co/company/accrue-1"/>
                 </mj-column>
                 <mj-column mj-class="hs-des vam">
                     <mj-text>
@@ -89,7 +83,7 @@
             </mj-group>
             <mj-group mj-class="100pw">
                 <mj-column mj-class="hs-img vam">
-                    <mj-image src="/Portfolio/HTML Emails/Newsletter AngelList/assets/hs2.jpg" alt="ocra" href="https://angel.co/company/okrahq"/>
+                    <mj-image src="./assets/hs2.jpg" alt="ocra" href="https://angel.co/company/okrahq"/>
                 </mj-column>
                 <mj-column mj-class="hs-des vam">
                     <mj-text>
@@ -100,7 +94,7 @@
             </mj-group>
             <mj-group mj-class="100pw">
                 <mj-column mj-class="hs-img vam">
-                    <mj-image src="/Portfolio/HTML Emails/Newsletter AngelList/assets/hs3.jpg" alt="tempo automation" href="https://angel.co/company/tempo-automation"/>
+                    <mj-image src="./assets/hs3.jpg" alt="tempo automation" href="https://angel.co/company/tempo-automation"/>
                 </mj-column>
                 <mj-column mj-class="hs-des vam">
                     <mj-text>
@@ -111,7 +105,7 @@
             </mj-group>
             <mj-group mj-class="100pw">
                 <mj-column mj-class="hs-img vam">
-                    <mj-image src="/Portfolio/HTML Emails/Newsletter AngelList/assets/hs4.jpg" alt="obviously ai" href="https://angel.co/company/obviouslyai"/>
+                    <mj-image src="./assets/hs4.jpg" alt="obviously ai" href="https://angel.co/company/obviouslyai"/>
                 </mj-column>
                 <mj-column mj-class="hs-des vam">
                     <mj-text>
