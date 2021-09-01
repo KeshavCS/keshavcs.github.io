@@ -1,0 +1,145 @@
+<mjml>
+    
+    <mj-head>
+        <mj-title>AngelList Weekly Newsletter</mj-title>
+        <mj-attributes>
+            <mj-text font-family="Helvetica Neue,Helvetica,Arial,sans-serif" font-size="16px" color="#17181a" padding="0px" line-height="1.5"/>
+            <mj-image padding="0px" />
+            <mj-section css-class="mwidth"/>
+            <mj-button font-family="Helvetica Neue,Helvetica,Arial,sans-serif" css-class="btn" font-size="16px" line-height="2" inner-padding="5px 0px" width="100%" background-color="#006aff" border="1px solid #006aff" border-radius="4px"/>
+            <mj-class name="vam" vertical-align="middle"/>
+            <mj-class name="wb" background-color="white" />
+            <mj-class name="np" padding="0px"/>
+            <mj-class name="ds" padding="8px 0px"/>
+            <mj-class name="100pw" width="100%"/>
+            <mj-class name="pad32" padding="32px"/>
+            <mj-class name="bfont" font-size="24px"/>
+            <mj-class name="sfont" font-size="12px"/>
+            <mj-class name="fdtext" padding="20px 0px 10px 0px"/>
+            <mj-class name="hdtext" padding="0px 0px 16px 0px" line-height="1.2"/>
+            <mj-class name="hs-img" padding="12px 0px 12px 0px" width="9.30%"/>
+            <mj-class name="hs-des" padding="12px 0px 12px 12px" width="90.6%"/>
+        </mj-attributes>
+        <mj-style inline="inline">
+            .mwidth{
+                min-width:460px !important;
+            }
+
+            .btn a{
+                width:100% !important;
+            }
+        </mj-style>
+    </mj-head>
+
+    <mj-body background-color="#ebeef4" width="620px">
+    <mj-wrapper full-width="full-width" padding="0px 20px">
+    
+        <mj-section mj-class="header np">
+            
+            <mj-group>
+                <mj-column width="50%" padding="32px 0px 24px 0px">
+                    <mj-image width="139px" align="left" src="./assets/AngelList Logo.png" alt="logo" href="http://links.angel.co/u/click?_t=26b4e8aeb47d4cd3acd5eba415f76f62&_m=90117e71171b4bffba691c48ea514931&_e=9WGC2ek-rk4tkdyRUo8f5YWZOXhcx_qerk_wU42YG4ftJc27Y6aLTFcqgxdC-TXj_h38jv5AYJOTlLm5a5PjYCoGUQt1vlfhpfoKotxkfRsn3bdUkf1S7t7rwJdvaJDf7CjqouXXMLr7E7zq5ZfIW7bIf-zvtd21LXraxGBcHx9J-b1ftUuurQrCV-I_P9Q-m-n5mhlfGJ7OO_zwseJ6v9RiAXLAYtiy3fEAm7qKizqRQ6zoz4Ek1Evn0MEYfNP-FPp1IrSBm91O185We8_zgEn838abaissEtXLqNy9IsrxDWl8wu2Jtuzj0NHvdHivzYmCdWqrKsrET_hFBkRW0rm7lA2x7ppc40v6I5VMDDk%3D"/>
+                </mj-column>
+            
+                <mj-column width="50%" padding="32px 7px 27.2px 7px">
+                    <mj-text align="right" font-size="13px" line-height="26px" color="#999999"> 
+                        <a style="color:#999999; text-decoration:none;" href="http://links.angel.co/e/evib?_t=26b4e8aeb47d4cd3acd5eba415f76f62&_m=90117e71171b4bffba691c48ea514931&_e=mugZqH-VqZSzK5A4Or2bVeLvycQQzghXQ2KdQw3L2CyweTBxicsUgbjQ2BvOYMTgSafJFVKgNZ2GrPZEilrECx4P26IzXBSr-Aqd4Dg0xDqih9_X3FxZWN2AuiWoFD4q"> View Online </a> 
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+            
+        </mj-section>
+        <mj-section mj-class="story wb pad32" padding-top="8px">
+            <mj-column>
+                <mj-text mj-class="bfont">
+                    <h3 style="font-size:24px; line-height:1; text-align:center;"> <a style="color: #006aff; text-decoration:none; "> Flush with venture funding, travel startups are hiring again </a> </h3> 
+                </mj-text>
+                <mj-image src="./assets/main-image.jpg" alt="main-image" href="http://links.angel.co/u/click?_t=26b4e8aeb47d4cd3acd5eba415f76f62&_m=90117e71171b4bffba691c48ea514931&_e=9WGC2ek-rk4tkdyRUo8f5aJ0a_d0m9R53YtBfKmSgPjHcj6qOIyEvkdSZL05OQYsK6ExNMwWiirQfY9DMU-eS2zwd1v3huHRlBmLCr9Np7thcI2161RxYEwcnIq8DpJEgxSoLdcou3lixnDQpH0-K5FoqDrOrnnfuY-7S6L-vxiVPKklvRi2MmuPMQn9TNTLQ57nA-AqVZe6f_0TUBzdEfHcABnKskj_Tlc7j-0rAb17aWK7TFY2xbEuFmD8F8iAvpMz4_TVB1Rb3d8Kjxo3ie7Ii7J4g92qEp466_QAKZ61V1JIVkU8yoJ4l4Lu7UCmPgk4Nn9ddQIkwW2bwBFvXeJhHiQ_YDy2eoSKuL7n4Ap7KPHqQ5bXglDSKZdJtF2ZiryfgDwuqhwRZ0rbazkMoW8kQUCRoih3Knw3rhqUnkbMMbA_kV84Fi9PUxP8BrXaqg0pz2w6foJQtqxUn66SzA%3D%3D" />
+                <mj-text padding="27px 0px">
+                    Investors regained their appetites for travel and tourism startups, buoyed by signs that the worst is over for an industry decimated by the pandemic.  <br> <br>
+                    That brings great news for job seekers: <b>Travel startups are hiring again.</b>  <br> <br>
+                    Investors remain bullish on the shared economy. Loge raised another $4.5M to expand its campsites for rent. For the RV sharing crowd, Harvest Hosts (they’re hiring), recently raised $37M.<br>
+                </mj-text>
+                <mj-button mj-class="np" href="http://links.angel.co/u/click?_t=26b4e8aeb47d4cd3acd5eba415f76f62&_m=90117e71171b4bffba691c48ea514931&_e=9WGC2ek-rk4tkdyRUo8f5aJ0a_d0m9R53YtBfKmSgPjHcj6qOIyEvkdSZL05OQYsK6ExNMwWiirQfY9DMU-eS2zwd1v3huHRlBmLCr9Np7thcI2161RxYEwcnIq8DpJEgxSoLdcou3lixnDQpH0-K5FoqDrOrnnfuY-7S6L-vxiVPKklvRi2MmuPMQn9TNTLQ57nA-AqVZe6f_0TUBzdEfHcABnKskj_Tlc7j-0rAb17aWK7TFY2xbEuFmD8F8iAm-Nvh8s_eD7Gxx8uBfxMnUI9-gjC_oodSR03AvqTwqiGAFS14nPWAiJc8RYTDQ9AT8x_C78sxzK-tLRmmtrGkTme0soW-5v7xNX_8DwwDHDknIcFNsAmqHZOZf0elBOybOP1pW5csAtUx7zJtf9MqBOyEuG224rmvlXyUVHfVBlexf7z2NiqYfHh-T8DsjvjX56USwIR2o2D38Rq0_tTkQ%3D%3D">
+                    View Story
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="ds">  </mj-section>
+        <mj-section mj-class="hot wb pad32">
+            <mj-column mj-class="100pw">
+                <mj-text mj-class="bfont hdtext"> <strong>Hot Startups hiring Now 🔥</strong> </mj-text>
+            </mj-column>
+            <mj-group mj-class="100pw">
+                <mj-column mj-class="hs-img vam">
+                    <mj-image src="./assets/hs1.jpg" alt="acure" href="https://angel.co/company/accrue-1"/>
+                </mj-column>
+                <mj-column mj-class="hs-des vam">
+                    <mj-text>
+                        <strong><a href="https://angel.co/company/accrue-1" style="color:#006aff;">Accrue</a></strong>
+                         - We help companies engineer high growth pricing.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+            <mj-group mj-class="100pw">
+                <mj-column mj-class="hs-img vam">
+                    <mj-image src="./assets/hs2.jpg" alt="ocra" href="https://angel.co/company/okrahq"/>
+                </mj-column>
+                <mj-column mj-class="hs-des vam">
+                    <mj-text>
+                        <strong><a href="https://angel.co/company/okrahq" style="color:#006aff;">Ocra</a></strong>
+                         - Digitising financial services.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+            <mj-group mj-class="100pw">
+                <mj-column mj-class="hs-img vam">
+                    <mj-image src="./assets/hs3.jpg" alt="tempo automation" href="https://angel.co/company/tempo-automation"/>
+                </mj-column>
+                <mj-column mj-class="hs-des vam">
+                    <mj-text>
+                        <strong><a href="https://angel.co/company/tempo-automation" style="color:#006aff;">Tempo Automation</a></strong>
+                         - Complex printed circuits in days.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+            <mj-group mj-class="100pw">
+                <mj-column mj-class="hs-img vam">
+                    <mj-image src="./assets/hs4.jpg" alt="obviously ai" href="https://angel.co/company/obviouslyai"/>
+                </mj-column>
+                <mj-column mj-class="hs-des vam">
+                    <mj-text>
+                        <strong><a href="https://angel.co/company/obviouslyai" style="color:#006aff;">Obviously AI</a></strong>
+                         - Data predictions in minutes, without code.
+                    </mj-text>
+                </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section mj-class="ds">  </mj-section>
+        <mj-section mj-class="fundings wb pad32">
+            <mj-column mj-class="100pw">
+                <mj-text mj-class="bfont hdtext"> <strong>Fundings & Aquisitions</strong> </mj-text>
+                <mj-text mj-class="fdtext">
+                    <strong>Picnic</strong>, the Seattle-based creator of a pizza-making robot , raised a $13.3 million Series A led by Thursday Ventures. Working alongside humans, the robot can crank out 100 pizzas in an hour. Picnic inked partnerships with several pizza suppliers and plans to roll out the technology in restaurants, schools, and other arenas.
+                </mj-text>
+                <mj-text mj-class="fdtext">
+                    <strong>Piano</strong>, the New York startup helping media companies monetize and grow audiences, raised a $88M Series C led by Updata Partners. LinkedIn participated in the round. The company serves 1k customers—including CNBC, The Economist, MIT Technology Review, and TechCrunch—and reports 4x revenue growth since 2019. The company previously raised $46M.
+                </mj-text>
+                <mj-text mj-class="fdtext">
+                    <strong>Somewhere Good</strong>, a New York-based social media platform for groups, raised a $3.75M seed round led by True Ventures. People use the app to drop into different “worlds,” or communities, that fit their interests. The company reports a waiting list of 5,000 people and plans to launch the app later this year.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="footer" padding="40px 10px 20px 10px">
+            <mj-column>
+                <mj-text line-height="1.8" font-size="12px" color="#676c73" align="center">
+                    AngelList Weekly<br> 90 Gold St <br> San Francisco, CA 94133 <br>
+                    <a href="http://links.angel.co/" style="color:#788ea6;">Unsubscribe </a> | 
+                    <a href="http://links.angel.co/" style="color:#788ea6;">Update preferences</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+    </mj-wrapper>
+    </mj-body>
+</mjml>

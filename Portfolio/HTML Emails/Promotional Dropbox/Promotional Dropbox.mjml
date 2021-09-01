@@ -1,0 +1,104 @@
+<mjml>
+  <mj-head>
+    <mj-title>Dropbox Promotional Email</mj-title>
+  </mj-head>
+
+  <mj-body width="740px">
+  
+  <mj-wrapper full-width padding="0px 20px">
+    
+    // Header Section
+    <mj-section full-width padding="8px 0px 15px 0px">
+      <mj-column>
+        <mj-image padding="20px 25px 10px 25px" width="150px" height="30px"align="left" src="https://ci5.googleusercontent.com/proxy/Sm1YG3Ri3RIVpya7E0IBKDqMYihDE4Z_Ay8o8BZ_7tazURhKJp6OkIBgPew0_PhlZHrLQczG2oU9iwei5R7jZpbrsert6xWX6hVf84gpOEWxvoi9D5aVUe-5np_z2Q=s0-d-e1-ft#https://cfl.dropboxstatic.com/static/images/emails/dbx_masthead_default.png" alt="dropbox logo here" />
+      </mj-column>
+    </mj-section>
+
+    // Section 1
+    <mj-section full-width padding="0px">
+      <mj-column>	
+        <mj-text padding="15px 25px" font-size="32px" color="#000000"  font-weight="600" line-height="1.1" font-family="Atlas Grotesk,Open Sans,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif">
+            Dropbox folders keep your files organized across devices
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    // Section 2
+    <mj-section full-width padding="0px">
+      <mj-column>
+        <mj-text padding="15px 25px" font-size="20px" color="#000000"  font-weight="400" line-height="1.45" font-family="Atlas Grotesk,Open Sans,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif" >
+          Spend less time searching for the file you need by setting up folders.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    // Section 3
+    <mj-section full-width padding="0px">
+      <mj-column>
+        <mj-button border-radius="0px" font-size="16px" color="#ffffff" padding="15px 25px" border="0px solid #0061ff" text-align="center" text-decoration="none" font-weight="400" background-color="#0061ff" inner-padding="11px 50px" align= "left" href="https://www.dropbox.com/l/AACsdNZMtmOFirxmjse00NH0N8sqVVrmhQI/h" color="white" font-family="Atlas Grotesk,Open Sans,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif" >
+          Get Started
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    
+    // Section 4
+    <mj-section full-width padding="15px 0px" background-url="https://www.dropbox.com/l/AACsdNZMtmOFirxmjse00NH0N8sqVVrmhQI/h">
+      <mj-column padding="42px" background-color="#b4d0e7">
+        <mj-image padding="0px" width="350px" href="https://www.dropbox.com/l/AACsdNZMtmOFirxmjse00NH0N8sqVVrmhQI/h" src="https://ci3.googleusercontent.com/proxy/7jFsbmmTq4foWAfN5h68eXpWfCreqE69JZ_ibCXDtXxO_KcR9d8svMG-QPTKu6NGkv7h3vzFdSw022bomQHPk-c-z1eIV8noITPvnJCRNp3PVBxfMDw8K4nct8GZoIUa7xt5tdTHpyZRMYRFuZX44x0Ns6Aw0XsOAdAEKXRT8Ut67D3x=s0-d-e1-ft#https://assets.dropbox.com/email/en/basic-engagement/basic-reactivation/organize/OrganizeFiles_DragAndDrop-en.gif" alt="main image">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+
+    // Section 5
+    <mj-section full-width padding="0px">
+      <mj-column width="100%" padding="15px 25px">
+        <mj-text font-size="18px" color="#000000" padding="0px" font-weight="400" line-height="1.45"
+        font-family="Atlas Grotesk,Open Sans,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif">
+            <b>Store photos and videos from special events</b><br>
+            Save all your memories from special occasions in a dedicated Dropbox folder for easy access
+            <br>
+            <br>
+        </mj-text>
+
+        <mj-text font-size="18px" color="#000000" padding="0px" font-weight="400" line-height="1.45"
+        font-family="Atlas Grotesk,Open Sans,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif">
+            <b>Backup projects in dedicated folders</b><br>
+            Stay organized by creating folders for each of your projects, and never misplace an important file again.
+            <br>
+            <br>
+        </mj-text>
+
+        <mj-text font-size="18px" color="#000000" padding="0px" font-weight="400" line-height="1.45"
+        font-family="Atlas Grotesk,Open Sans,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif">
+            <b>Share your folders</b><br>
+            Whether you're sharing vacation photos with the grandparents, or project files with a colleague, Dropbox lets you easily & securely share folders with others.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    // Section 6
+    <mj-section full-width padding="0px 0px 15px 0px">
+      <mj-column>
+        <mj-button border-radius="0px" font-size="16px" color="#ffffff" padding="15px 25px" border="0px solid #0061ff" text-align="center" text-decoration="none" font-weight="400" background-color="#0061ff" inner-padding="11px 50px" align= "left" href="https://www.dropbox.com/l/AACsdNZMtmOFirxmjse00NH0N8sqVVrmhQI/h" color="white" font-family="Atlas Grotesk,Open Sans,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif" >
+          Get Started
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    // Section Footer
+    <mj-section full-width background-color="#f7f8f8" padding="0px">
+      <mj-column padding="10px 22px">
+        <mj-text font-size="11px" color="#adb1b4" padding="0px" line-height="1.6" font-family="Atlas Grotesk,Open Sans,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif">
+          Dropbox, Inc.
+          <br>
+          PO Box 77767, San Francisco, CA 94107
+          <br>
+          <a href="https://www.dropbox.com/l/AADEmPtOKvjTIX1Xdwa_3LCKux5udDqDk7Q/privacy#privacy"> View Privacy Policy </a> | <a href="https://www.dropbox.com/l/AADEmPtOKvjTIX1Xdwa_3LCKux5udDqDk7Q/privacy#privacy"> Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-wrapper>
+
+  </mj-body>
+</mjml>
