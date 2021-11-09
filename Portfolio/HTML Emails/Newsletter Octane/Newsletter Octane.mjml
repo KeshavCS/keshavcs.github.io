@@ -1,0 +1,138 @@
+<mjml>
+
+  <mj-head>
+    <mj-title>Octane Newsletter</mj-title>
+    <mj-font name="poppins" href="https://fonts.googleapis.com/css2?family=Poppins" />
+    <mj-attributes>
+      <mj-text line-height="150%" />
+      <mj-all font-family="poppins, arial, sans-serif" />
+      <mj-class name="wb" background-color="white" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ebeef4" width="700px">
+
+    <mj-wrapper background-color="#ebeef4" full-width padding="20px 0px 0px 0px">
+
+      <!-- Header Section -->
+      <mj-section padding="30px 0px" mj-class="wb">
+        <mj-column width="100%">
+          <mj-image padding="0 0 0 15px" align="left" width="150px" height="auto" src="./assets/logo.png" alt="octane-logo" href="google.com" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Hero Section -->
+      <mj-section padding="0px">
+        <mj-column width="100%">
+          <mj-image padding="0px" width="700px" height="auto" src="./assets/main-image.jpg" alt="main-image" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Text Section -->
+      <mj-section  mj-class="wb">
+        <mj-column width="100%">
+          <mj-text>
+            Hello Aaron,
+            <br><br>
+            You have a fantastic product, a great business plan and you're ready to finally start raising capital
+            to launch your tech or medtech company. But what comes next? Refine your investor pitch with
+            Octane's award-winning <a href="#" style="color:#ff8c00;">LaunchPad SBDC Accelerator!</a>
+            <br><br>
+            LaunchPad is a <b>pro-bono </b>service offered through support from the SBDC. The program offers:
+            <br><br>
+            <ul>
+              <li><span style="color: #ff8c00; font-weight: 600;">A strengthened capital funding strategy </span>
+                with 1:1 counseling to ensure that your pitch is investor-ready</li>
+              <li><span style="color: #ff8c00; font-weight: 600;">Actionable feedback from industry experts </span>
+                with knowledge in IP, finance, deep technical experience, sales &amp distribution, legal, marketing &amp branding, and more</li>
+              <li><span style="color: #ff8c00; font-weight: 600;">Access to a wide network </span>
+                with the opportunity to connect with investors, mentors, and strategics</li>
+            </ul>
+            Historically, companies that successfully make it through the LaunchPad process raise capital 3
+            months faster and with 3% more equity, a trend sustained through future rounds.* LaunchPad
+            Alumni additionally have the chance to pitch in front of Octane Conference attendees, including
+            at <a href="#" style="color:#ff8c00;">MedTech Innovation Forum</a>, upcoming on October 28 - 29 at the AV Irvine.
+            Apply to LaunchPad SBDC
+          </mj-text>
+          <mj-button background-color="#ff6c0e" border-radius="30px" href="#">
+            Apply to LaunchPad SBDC
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <!-- Person Section -->
+      <mj-section mj-class="wb">
+        <mj-column width="100%">
+          <mj-image src="./assets/person.jpg" alt="person" width="110px" />
+        </mj-column>
+      </mj-section>
+
+      <!-- Regards Section -->
+      <mj-section mj-class="wb">
+        <mj-column width="100%">
+          <mj-text>
+            Sincerely,<br><br>
+            <span style="color: #ff8c00;  font-weight: 600; font-size: 20px">Mike Hill</span><br><br>
+            Director, SDBC Launchpad<br><br>
+            mike@octaneoc.org
+          </mj-text>
+
+          <mj-text align="center" font-style="italic">
+            <br>*Data according to Pitchbook Analysis
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Details Section -->
+      <mj-section background-color="#323e48" padding="0px">
+        <mj-column width="100%">
+          <mj-text color="#ffffff" padding="10px 25px 25px">
+            <h3>MedTech Innovation Forum</h3>
+            October 28 - 29, 2021 <br><br>
+            AV Irvine, Irvine, CA <br><br>
+            <a style="color:#ff8c00;" href="#">Register Today.</a> <br><br>
+            <span style="font-style:italic;">Prices Rise October 1.</span><br>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Footer Section -->
+      <mj-section padding="40px 15px">
+
+        <mj-column width="100%">
+          <mj-social padding="10px 0px 21px">
+            <mj-social-element icon-size="30px" href="#" src="https://info.swiggy.in/imgproxy/img/2035768966/12_2_1_f.png">
+
+            </mj-social-element>
+
+            <mj-social-element icon-size="30px" href="#" src="https://info.swiggy.in/imgproxy/img/2035768967/13_3_2_f.png">
+
+            </mj-social-element>
+
+            <mj-social-element icon-size="30px" href="#" src="https://info.swiggy.in/imgproxy/img/2035768968/14_4_6-Youtube_hfij7e.png">
+
+            </mj-social-element>
+
+            <mj-social-element icon-size="30px" href="#" src="https://info.swiggy.in/imgproxy/img/2035768969/15_5_4_f.png">
+
+            </mj-social-element>
+
+            <mj-social-element icon-size="30px" href="#" src="https://info.swiggy.in/imgproxy/img/2035768970/16_6_5-f.png">
+
+            </mj-social-element>
+          </mj-social>
+        </mj-column>
+
+        <mj-column width="100%">
+          <mj-text align="center" padding="0px" color="#999b9f" font-family="verdana" line-height="15px" font-size="12px" line-height="25px">
+            This Advertisement was sent by <a style="color:#ff8c00; text-decoration:none;" href="#">Octane OC</a>.</p>
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+
+    </mj-wrapper>
+
+
+  </mj-body>
+
+</mjml>
