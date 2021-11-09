@@ -4,12 +4,12 @@
     <mj-title>Octane Newsletter</mj-title>
     <mj-font name="poppins" href="https://fonts.googleapis.com/css2?family=Poppins" />
     <mj-attributes>
-      <mj-text line-height="150%" />
+      <mj-text line-height="150%" font-size="15px"/>
       <mj-all font-family="poppins, arial, sans-serif" />
       <mj-class name="wb" background-color="white" />
     </mj-attributes>
   </mj-head>
-  <mj-body background-color="#ebeef4" width="700px">
+  <mj-body background-color="#ebeef4" width="600px">
 
     <mj-wrapper background-color="#ebeef4" full-width padding="20px 0px 0px 0px">
 
@@ -23,7 +23,7 @@
       <!-- Hero Section -->
       <mj-section padding="0px">
         <mj-column width="100%">
-          <mj-image padding="0px" width="700px" height="auto" src="./assets/main-image.jpg" alt="main-image" />
+          <mj-image padding="0px" width="600px" height="auto" src="./assets/main-image.jpg" alt="main-image" />
         </mj-column>
       </mj-section>
 
