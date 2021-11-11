@@ -1,0 +1,247 @@
+<mjml>
+
+  <mj-head>
+    <mj-title>Practice Unbound Newsletter</mj-title>
+    <mj-attributes>
+      <mj-text font-family="Arial,sans-serif" font-size="20px" color="#000000" line-height="1.5" />
+      <mj-image padding="0px" />
+      <mj-button font-family="Arial,sans-serif" font-size="16px" line-height="30px" height="50px" inner-padding="0px 28px" background-color="#f4b321" border-radius="30px" />
+      <mj-class name="bold" font-weight="700" />
+      <mj-class name="vam" vertical-align="middle" />
+      <mj-class name="dgb" background-color="#ededed" />
+      <mj-class name="gb" background-color="#f2f2f2" />
+      <mj-class name="wb" background-color="#ffffff" />
+      <mj-class name="fw" width="100%" />
+      <mj-class name="np" padding="0px" />
+      <mj-class name="ds" padding="8px 0px" />
+      <mj-class name="sidepad" padding-left="20px" padding-right="20px" />
+      <mj-class name="lfont" font-size="24px" />
+      <mj-class name="mfont" font-size="20px" />
+      <mj-class name="sfont" font-size="15px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#000000" width="750px">
+
+    <!-- Header Section -->
+    <mj-section mj-class="np wb">
+
+      <mj-column width="100%" padding="20px 0px 10px 0px">
+        <mj-image width="300px" align="center" src="./assets/logo.png" alt="logo" href="#" />
+      </mj-column>
+
+    </mj-section>
+
+    <!-- Hero Section -->
+    <mj-section mj-class="gb sidepad">
+      <mj-column>
+        <mj-text>
+          <h3 style="font-size:28px; line-height:1.5; text-align:center; font-weight:800;">
+            Group Consultations: Delivering efficient &amp effective virtual or face to face healthcare</h3>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Second Section -->
+    <mj-section mj-class="wb sidepad">
+      <mj-column width="100%">
+        <mj-text>
+          Primary care faces a huge challenge to work through the backlog created by the
+          COVID pandemic. <span style="color:#d648d7; font-weight:700;">Group Consultations </span>is a tried and tested approach to
+          patient care that will help your practice to work through patient backlogs, whilst
+          delivering better patient outcomes and building resilience in your healthcare
+          team.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- Divider Section -->
+    <mj-section mj-class="np wb">
+      <mj-column>
+        <mj-divider border-width="1px" border-color="#d3d3d3" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Third Section -->
+    <mj-section mj-class="wb sidepad">
+      <mj-column>
+        <mj-text mj-class="mfont" align="center">
+          <strong>Group Consultations enable effective care for patients with
+            long Term Conditions such as Diabetes, COPD, Chronic pain,
+            Asthma, long COVID and more</strong>
+        </mj-text>
+        <mj-button mj-class="bold" href="#">FIND OUT MORE</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider Section -->
+    <mj-section mj-class="np wb">
+      <mj-column>
+        <mj-divider border-width="1px" border-color="#d3d3d3" />
+      </mj-column>
+    </mj-section>
+
+    <!-- How Section -->
+    <mj-section mj-class="wb sidepad">
+      <mj-column>
+        <mj-text mj-class="lfont" align="center"> <strong>How?</strong> </mj-text>
+        <mj-text>
+          Our Group Consultations programme is flexible, giving you the training,
+          implementation support and tools to deliver effective Group Consultations in your
+          practice. Group Consultations are a great improvement on telephone and oneto-one video appointments and can be run either virtually or in person. Group
+          Consultations can replace routine one-to-one appointments whilst maximising
+          clinician time and expertise and creating a supportive peer group setting for
+          patients. We provide the training, implementation support, resources and data to
+          demonstrate impact, as well as collating your all-important patient feedback.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Testimonial Section -->
+    <mj-section mj-class="gb sidepad">
+      <mj-group>
+        <mj-column width="15%">
+          <mj-image src="./assets/quotes.png" alt="quotes" width="72px" />
+        </mj-column>
+
+        <mj-column width="85%" padding-top="30px">
+          <mj-text font-size="22px" padding="0px">
+            <strong>I really enjoyed it. It makes you feel like you’re not
+              alone. I’ve learned more about my condition by
+              talking with other people.<br></strong>
+            <span style="font-style:italic; font-size:20px;">Patient Feedback</span>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Effective Section -->
+    <mj-section mj-class="wb sidepad">
+      <mj-column>
+        <mj-text mj-class="lfont" align="center"> <strong>Is it effective?</strong> </mj-text>
+        <mj-text>
+          We have been delivering our programme of Group Consultations since 2014.<br>
+          We can evidence:
+          <ul>
+            <li style="padding-left: 15px;">97% of patients reported feeling more listened to and satisfied.</li>
+            <li style="padding-left: 15px;">97% of patients would recommend Group Consultations to friends and family.</li>
+            <li style="padding-left: 15px;">Around 300% <span style="font-weight: 600;">efficiency gains </span>in practitioner time saved.</li>
+            <li style="padding-left: 15px;">Demonstrably better <span style="font-weight: 600;">patient outcomes.</span></li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider Section -->
+    <mj-section mj-class="np wb">
+      <mj-column>
+        <mj-divider border-width="1px" border-color="#d3d3d3" />
+      </mj-column>
+    </mj-section>
+
+    <!-- How Implement Section -->
+    <mj-section mj-class="wb sidepad">
+      <mj-column width="100%">
+        <mj-text mj-class="mfont" align="center"> <strong>How can I implement Group Consultations in my practice?</strong> </mj-text>
+        <mj-text>
+          Group Consultations from Practice Unbound is a comprehensive implementation
+          programme that can embed this approach into your practice quickly and
+          empower your healthcare staff to start delivering care more effectively.
+        </mj-text>
+        <mj-image src="./assets/features.png" alt="features" padding="10px 25px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider Section -->
+    <mj-section mj-class="np wb">
+      <mj-column>
+        <mj-divider border-width="1px" border-color="#d3d3d3" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Want to know more Section -->
+    <mj-section mj-class="wb sidepad">
+      <mj-column>
+        <mj-text mj-class="lfont" align="center"> <strong>Want to know more?</strong> </mj-text>
+        <mj-text>
+          Call us or <span style="color:#d648d7; font-weight:700;">email </span>us to find out more about the effectiveness of our Group
+          Consultations programme, and how it can be easily integrated into your Practice.
+        </mj-text>
+        <mj-button mj-class="bold" href="#">FIND OUT MORE</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Testimonial Section -->
+    <mj-section mj-class="gb sidepad">
+      <mj-group>
+        <mj-column width="15%">
+          <mj-image src="./assets/quotes.png" alt="quotes" width="72px" />
+        </mj-column>
+
+        <mj-column width="85%" padding-top="30px">
+          <mj-text font-size="22px" padding="0px">
+            <strong>Group Consultations offers something very different.
+              There is an energy on the screen. Patients bounce
+              ideas off each other. They share their knowledge and
+              expertise.<br></strong>
+            <span style="font-style:italic; font-size:20px;">Dr Clare Nieland, GP Partner, Maidenhead</span>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- Logos Section -->
+    <mj-section mj-class="wb sidepad">
+      <mj-column width="50%" padding="0px 20px">
+        <mj-image src="./assets/logo2.png" alt="logo2" />
+      </mj-column>
+
+      <mj-column width="50%" padding="0px 20px">
+        <mj-image src="./assets/logo.png" alt="logo" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Social Section -->
+    <mj-section mj-class="wb sidepad">
+      <mj-column width="100%">
+        <mj-social padding="0px">
+          <mj-social-element icon-size="30px" icon-padding="5px" href="#" src="./assets/twitter.png"></mj-social-element>
+          <mj-social-element icon-size="30px" icon-padding="5px" href="#" src="./assets/linkedin.png"></mj-social-element>
+          <mj-social-element icon-size="30px" icon-padding="5px" href="#" src="./assets/youtube.png"></mj-social-element>
+          <mj-social-element icon-size="30px" icon-padding="5px" href="#" src="./assets/instagram.png"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+    <!-- Divider Section -->
+    <mj-section mj-class="np wb">
+      <mj-column>
+        <mj-divider border-width="1px" border-color="#d3d3d3" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer Section -->
+    <mj-section mj-class="wb sidepad" >
+      <mj-column>
+        <mj-text line-height="1.8" align="center" font-size="15px">
+          <span style="font-style:italic;">
+            Copyright © 2020 Practice Unbound, All rights reserved.<br>
+            You are receiving this email because you signed up on our website or you are an existing Practice
+            Unbound customer.
+          </span><br><br>
+          <strong>Our mailing address is:</strong><br>
+          Practice Unbound<br>
+          Floor 4<br>
+          177 Preston Road<br>
+          Brighton, East Sussex BN1 6AG<br>
+          United Kingdom<br><br>
+          <a href="#" style="color: #000000;">Add us to your address book</a><br><br>
+          Want to change how you receive these emails?<br>
+          You can <a href="#" style="color: #000000;">Update your preferences </a>or <a href="#" style="color: #000000;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
