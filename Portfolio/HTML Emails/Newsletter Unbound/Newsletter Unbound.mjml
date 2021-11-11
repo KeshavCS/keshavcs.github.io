@@ -85,7 +85,7 @@
     <!-- How Section -->
     <mj-section mj-class="wb sidepad">
       <mj-column>
-        <mj-text mj-class="lfont" align="center"> <strong>How?</strong> </mj-text>
+        <mj-text mj-class="lfont" align="center" font-weight="800">How?</mj-text>
         <mj-text>
           Our Group Consultations programme is flexible, giving you the training,
           implementation support and tools to deliver effective Group Consultations in your
@@ -119,7 +119,7 @@
     <!-- Effective Section -->
     <mj-section mj-class="wb sidepad">
       <mj-column>
-        <mj-text mj-class="lfont" align="center"> <strong>Is it effective?</strong> </mj-text>
+        <mj-text mj-class="lfont" align="center" font-weight="800">Is it effective?</mj-text>
         <mj-text>
           We have been delivering our programme of Group Consultations since 2014.<br>
           We can evidence:
@@ -143,7 +143,7 @@
     <!-- How Implement Section -->
     <mj-section mj-class="wb sidepad">
       <mj-column width="100%">
-        <mj-text mj-class="mfont" align="center"> <strong>How can I implement Group Consultations in my practice?</strong> </mj-text>
+        <mj-text mj-class="mfont" align="center" font-weight="800">How can I implement Group Consultations in my practice?</mj-text>
         <mj-text>
           Group Consultations from Practice Unbound is a comprehensive implementation
           programme that can embed this approach into your practice quickly and
@@ -169,7 +169,7 @@
     <!-- Want to know more Section -->
     <mj-section mj-class="wb sidepad">
       <mj-column>
-        <mj-text mj-class="lfont" align="center"> <strong>Want to know more?</strong> </mj-text>
+        <mj-text mj-class="lfont" align="center" font-weight="800">Want to know more?</mj-text>
         <mj-text>
           Call us or <span style="color:#d648d7; font-weight:700;">email </span>us to find out more about the effectiveness of our Group
           Consultations programme, and how it can be easily integrated into your Practice.
