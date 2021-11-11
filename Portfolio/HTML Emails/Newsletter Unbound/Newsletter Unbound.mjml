@@ -149,6 +149,12 @@
           programme that can embed this approach into your practice quickly and
           empower your healthcare staff to start delivering care more effectively.
         </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Features Section -->
+    <mj-section mj-class="gb sidepad">
+      <mj-column width="100%">
         <mj-image src="./assets/features.png" alt="features" padding="10px 25px" />
       </mj-column>
     </mj-section>
