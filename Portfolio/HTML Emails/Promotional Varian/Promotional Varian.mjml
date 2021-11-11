@@ -7,7 +7,7 @@
       <mj-all font-size="16px" font-family="Montserrat,Arial,sans-serif" />
       <mj-text color="#000000" line-height="1.5" />
       <mj-image padding="0px" />
-      <mj-button inner-padding="10px 10px" border-radius="8px" href="#"/>
+      <mj-button inner-padding="7px 11px" border-radius="10px" href="#"/>
       <mj-class name="ubold" font-weight="900" />
       <mj-class name="ebold" font-weight="800" />
       <mj-class name="sbold" font-weight="600" />
