@@ -60,11 +60,11 @@ body.dark {
 }
 
 body.light {
-  --bg-color-primary: #fbfbfb;
-  --bg-color-secondary: #ffffff;
+  --bg-color-primary: #ffe3be;
+  --bg-color-secondary: #ffe3be;
   --important: #000;
   --sub: #111;
-  --body: #585b63;
+  --body: #222428;
   --border: #62626234;
   --border-dark: #5e5e5e1f;
   --gradient-border: linear-gradient(to left bottom, #000000c6, #0e0d0d00);
@@ -377,7 +377,8 @@ main {
   border-top: 1px solid var(--border);
   border-top-left-radius: var(--radius);
   border-top-right-radius: var(--radius);
-  background-color: var(--bg-color-primary);
+  /* background-color: var(--bg-color-primary); */
+  background-color: transparent;
   transform: translateY(calc(-1 * var(--radius)));
 }
 
@@ -481,13 +482,24 @@ main {
 }
 
 body.dark .header {
-  background-image: linear-gradient(#0000008b, #000000e6),
-    url("assets/images/hero-bg.webp");
+  background-image: linear-gradient(#000000c4, #00000026), url(assets/images/hero-bg.webp);
 }
 
+body.light {
+  background-image: url("assets/images/hero-bg-mobile.webp");
+  background-attachment: fixed;
+}
 body.light .header {
-  background-image: linear-gradient(#ffffffa2, #ffffffe6),
-    url("assets/images/hero-bg-light.webp");
+  /* background-image: linear-gradient(#ffffffa2, #ffffffe6), url("assets/images/hero-bg-light2.webp"); */
+  /* background-image: url("assets/images/hero-bg-light2.webp"); */
+  background-image: url("assets/images/hero-bg-mobile.webp");
+}
+
+@media screen and (max-width: 500px) {
+  body.light .header {
+    background-image: url("assets/images/hero-bg-mobile.webp");
+    background-position: 30%;
+  }
 }
 
 .header-textbox {
@@ -601,7 +613,7 @@ body.dark .logo {
 }
 
 body.light .logo {
-  filter: grayscale(100%) opacity(0.6);
+  /* filter: grayscale(100%) opacity(0.6); */
 }
 
 /* --------------------------------- */
@@ -1071,7 +1083,7 @@ body.light .signatures {
 }
 
 .contact-form {
-  background-color: var(--bg-color-secondary);
+  /* background-color: var(--bg-color-secondary); */
   border-top-right-radius: var(--gutter-nano);
   border-bottom-right-radius: var(--gutter-nano);
 }
