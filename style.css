@@ -486,7 +486,7 @@ body.dark .header {
 }
 
 body.light {
-  background-image: url("assets/images/hero-bg-mobile.webp");
+  background-image: url("assets/images/hero-bg-mobile.webp"); 
   background-attachment: fixed;
 }
 body.light .header {
