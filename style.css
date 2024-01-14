@@ -687,12 +687,17 @@ body.light .work-img {
 
 .work-text {
   margin-block: var(--gutter-micro);
+  font-weight: 600;
 }
 
 .work-technologies {
-  list-style-position: inside;
-  list-style-type: disc;
+  /* list-style-position: inside; */
+  list-style-type: disclosure-closed;
   margin-block-end: var(--gutter-x-small);
+}
+
+.work-technologies li{
+  margin-bottom: 10px;
 }
 
 .work-links {
@@ -721,7 +726,6 @@ body.dark .work-links img {
   transform: scale(1.1);
 }
 
-.work-text,
 .contact-text,
 .work-technologies {
   font-weight: 300;
