@@ -691,7 +691,7 @@ body.light .work-img {
 }
 
 .work-technologies {
-  /* list-style-position: inside; */
+  padding-left: 20px;
   list-style-type: disclosure-closed;
   margin-block-end: var(--gutter-x-small);
 }
@@ -1003,6 +1003,13 @@ body.dark .work-links img {
 /* --------------------------------- */
 /* ----- Contact -----*/
 /* --------------------------------- */
+
+.contact h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
 
 .contact-content {
   display: grid;

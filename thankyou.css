@@ -1,0 +1,60 @@
+body {
+  padding: 30px;
+  background-image: url('/assets/images/hero-bg-mobile.webp');
+}
+
+#header h1 {
+  font-size: 48px;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 1.2;
+  margin-bottom: 20px;
+  margin-top: 100px;
+}
+
+.main-content {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  padding: 25px;
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
+.main-content-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.main-content svg {
+  margin-bottom: 20px;
+  /* width: 350px; */
+  scale: 3;
+  transform: rotateY(180deg);
+}
+
+.main-content a:not(.btn) {
+  color: #333;
+  text-decoration: none;
+}
+
+.main-content a:not(.btn):hover {
+  text-decoration: underline;
+}
+
+.thankyou-ctas {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 600px) {
+  .main-content svg {
+    width: 40vw;
+  }
+}
